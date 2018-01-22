@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70107" creator="Ipe 7.1.10">
+<info created="D:20171129205900" modified="D:20171129213526"/>
+<ipestyle name="basic">
+<pen name="fat" value="1.2"/>
+</ipestyle>
+<page>
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 192.0 704.0 e
+</path>
+<text transformations="translations" pos="192.0 704.0" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v0$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 256.0 704.0 e
+</path>
+<text transformations="translations" pos="256.0 704.0" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v1$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 288.0 648.5743741577959 e
+</path>
+<text transformations="translations" pos="288.0 648.5743741577959" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v2$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 224.0 648.5743741577959 e
+</path>
+<text transformations="translations" pos="224.0 648.5743741577959" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v3$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 256.0 593.1487483155919 e
+</path>
+<text transformations="translations" pos="256.0 593.1487483155919" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v4$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 192.0 593.1487483155919 e
+</path>
+<text transformations="translations" pos="192.0 593.1487483155919" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v5$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 159.99999999999997 648.5743741577959 e
+</path>
+<text transformations="translations" pos="159.99999999999997 648.5743741577959" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v6$</text>
+</page>
+</ipe>

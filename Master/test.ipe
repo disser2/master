@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70107" creator="Ipe 7.1.10">
+<info created="D:20171129205900" modified="D:20171129213526"/>
+<ipestyle name="basic">
+<pen name="fat" value="1.2"/>
+</ipestyle>
+<page>
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<path layer="alpha" stroke="black" pen="fat">
+18.475219483176264 0 0 18.475219483176264 192.0 704.0 e
+</path>
+<text transformations="translations" pos="192.0 704.0" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v0$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 242.47521948317626 704.0 e
+</path>
+<text transformations="translations" pos="242.47521948317626 704.0" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v1$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 201.9008540624848 654.5053450289004 e
+</path>
+<text transformations="translations" pos="201.9008540624848 654.5053450289004" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v2$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 201.9008540624848 654.5053450289004 e
+</path>
+<text transformations="translations" pos="201.9008540624848 654.5053450289004" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v3$</text>
+</page>
+</ipe>
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70107" creator="Ipe 7.1.10">
+<info created="D:20171129205900" modified="D:20171129213526"/>
+<ipestyle name="basic">
+<pen name="fat" value="1.2"/>
+</ipestyle>
+<page>
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<path layer="alpha" stroke="black" pen="fat">
+18.475219483176264 0 0 18.475219483176264 192.0 704.0 e
+</path>
+<text transformations="translations" pos="192.0 704.0" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v0$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 242.47521948317626 704.0 e
+</path>
+<text transformations="translations" pos="242.47521948317626 704.0" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v1$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 201.9008540624848 654.5053450289004 e
+</path>
+<text transformations="translations" pos="201.9008540624848 654.5053450289004" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v2$</text>
+<path layer="alpha" stroke="black" pen="fat">
+32.0 0 0 32.0 201.9008540624848 654.5053450289004 e
+</path>
+<text transformations="translations" pos="201.9008540624848 654.5053450289004" stroke="black" type="label" width="10.168" height="6.42" depth="0" valign="baseline">$v3$</text>
+</page>
+</ipe>

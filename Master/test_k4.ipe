@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70107" creator="Ipe 7.1.10">
+<info created="D:20171129205900" modified="D:20171205170036"/>
+<ipestyle name="basic">
+<pen name="fat" value="1.2"/>
+</ipestyle>
+<page>
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<path layer="alpha" matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" stroke="black" pen="fat">
+32 0 0 32 192 704 e
+</path>
+<text matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" transformations="translations" pos="192 704" stroke="black" type="label" width="9.298" height="4.294" depth="1.49" valign="baseline">$v_0$</text>
+<path matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" stroke="black" pen="fat">
+32 0 0 32 256 704 e
+</path>
+<text matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" transformations="translations" pos="256 704" stroke="black" type="label" width="9.298" height="4.294" depth="1.49" valign="baseline">$v_1$</text>
+<path matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" stroke="black" pen="fat">
+5 0 0 5 224 685.426 e
+</path>
+<text matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" transformations="translations" pos="224 685.426" stroke="black" type="label" width="9.298" height="4.294" depth="1.49" valign="baseline">$v_2$</text>
+<path matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" stroke="black" pen="fat">
+32 0 0 32 224 648.574 e
+</path>
+<text matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" transformations="translations" pos="224 648.574" stroke="black" type="label" width="9.298" height="4.294" depth="1.49" valign="baseline">$v_3$</text>
+<use matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" name="mark/disk(sx)" pos="224 576" size="normal" stroke="black"/>
+<use matrix="0.5 0.866025 -0.866025 0.5 680.113 134.01" name="mark/disk(sx)" pos="224 576" size="normal" stroke="black"/>
+</page>
+</ipe>
